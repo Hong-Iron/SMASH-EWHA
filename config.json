@@ -20,5 +20,72 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "이화캠퍼스복합단지": {
+      "style": "glass",
+      "wall": "#4e565c",
+      "glass": "#2e353e",
+      "frame": "#9da4a9"
+    },
+    "산학협력관": {
+      "style": "stone",
+      "wall": "#c7c9c8",
+      "glass": "#546773",
+      "frame": "#b6c0c4"
+    },
+    "중앙도서관": {
+      "style": "stone",
+      "wall": "#d6d2ce",
+      "glass": "#5b5b5e",
+      "frame": "#3e3f44"
+    },
+    "생활환경관": {
+      "style": "brick",
+      "wall": "#a0745a",
+      "glass": "#42505a",
+      "frame": "#e4ddd5"
+    },
+    "연구협력관": {
+      "style": "glass",
+      "wall": "#c8c8ca",
+      "glass": "#42473d",
+      "frame": "#d6d6d8"
+    },
+    "아산공학관": {
+      "style": "stone",
+      "wall": "#d8d6dc",
+      "glass": "#3b3c46",
+      "frame": "#bdbec0",
+      "hip": true,
+      "roof": "#6e7278"
+    },
+    "교육관": {
+      "style": "brick",
+      "wall": "#b06e50",
+      "glass": "#3f4a48",
+      "frame": "#f2f1ec",
+      "hip": true,
+      "roof": "#5d6066"
+    },
+    "음악관": {
+      "style": "stone",
+      "wall": "#d6d6d6",
+      "glass": "#3c515e",
+      "frame": "#7c9a9b"
+    },
+    "대강당": {
+      "style": "stone",
+      "wall": "#a3a7ad",
+      "glass": "#3f4f66",
+      "frame": "#898f97"
+    },
+    "법학관": {
+      "style": "stone",
+      "wall": "#c4c1c0",
+      "glass": "#24282d",
+      "frame": "#7a7a7a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
