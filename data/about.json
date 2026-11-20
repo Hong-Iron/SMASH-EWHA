@@ -1,0 +1,34 @@
+{
+ "region": "서울 서대문구 대현동",
+ "nameEn": "Ewha Womans University",
+ "added": "2026-10-16",
+ "rank": 24,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CHUGYE",
+   "campus": "추계예술대학교",
+   "km": 0.6
+  },
+  {
+   "code": "YONSEI",
+   "campus": "연세대학교 신촌캠퍼스",
+   "km": 0.8
+  },
+  {
+   "code": "KYONGGI-SEOUL",
+   "campus": "경기대학교 서울캠퍼스",
+   "km": 1.4
+  },
+  {
+   "code": "MTU",
+   "campus": "감리교신학대학교",
+   "km": 1.4
+  },
+  {
+   "code": "SOGANG",
+   "campus": "서강대학교",
+   "km": 1.4
+  }
+ ]
+}
